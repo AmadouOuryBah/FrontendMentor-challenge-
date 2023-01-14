@@ -1,0 +1,24 @@
+.footer-getStarted{
+    padding: 40px;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    background-image:url("../../public/bg-shorten-desktop.svg");
+    background-color: hsl(257, 27%, 26%);
+}
+.footer-getStarted a{
+    border-radius:18px;
+    padding: 4px 15px ;
+    color: white;
+    background-color:  hsl(180, 66%, 49%) 
+}
+.footer-description{
+
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+   justify-content: space-between;
+   background-color: hsl(260, 8%, 14%);
+   color: white;
+}

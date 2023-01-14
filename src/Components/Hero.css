@@ -1,0 +1,68 @@
+.first-section{
+    
+    margin:50px auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+ 
+}
+.first-section a{
+    border: 1 solid black;
+    border-radius:18px;
+    padding: 4px 15px ;
+    text-decoration: none;
+    color: white;
+    background-color:  hsl(180, 66%, 49%) ;
+}
+.first-section a:hover{
+    color: hsl(180, 66%, 49%) ;
+    background-color:white; ;
+}
+
+.first-section p{
+    margin-top: -30px;
+    color:  hsl(0, 0%, 75%);
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.form-background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    height: 140px;
+    width: 900px;
+    margin: 0 auto;
+    background-image:url("../../public/bg-shorten-desktop.svg");
+    background-color: hsl(257, 27%, 26%);
+    top: 109%;
+    left:190px;
+    border-radius: 7px;
+}
+.form-background input[type=text]{
+    width: 65%;
+    margin-right: 15px;
+    padding: 15px;
+    outline: none;
+    border-radius: 7px;
+    border: 0;
+}
+form{
+    margin-left: 73px;
+    width: 900px;
+}
+.submit-btn{
+    border: 1 solid black;
+    border-radius:10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color:  hsl(180, 66%, 49%) ;
+}
+
+

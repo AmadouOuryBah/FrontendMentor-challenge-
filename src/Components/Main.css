@@ -1,0 +1,59 @@
+main{
+
+    margin-top: 160px;
+    height: 800px;
+    background-color:    hsl(0, 0%, 93%);
+    overflow-x: hidden;
+}
+
+.main-title{
+    width: 530px;
+    margin: 0 auto;
+    padding: 100px;
+}
+.main-content p, .main-title p{
+    font-size: 15px;
+    color:hsl(0, 0%, 75%);
+}
+.svg-container{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    border: 0;
+    background-color: hsl(257, 27%, 26%);
+    position: relative;
+    top:-50px;
+}
+.svg-container svg{
+    padding: 20px;
+}
+.main-content{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.card-bg:nth-last-child(2)::after , .card-bg:first-child::after{
+    position: absolute;
+    content: "" ;           
+    width: 30px;
+    height: 5px;
+    background-color: hsl(180, 66%, 49%);
+    right: -29px;
+    top: 144px;
+}
+
+.card-bg{
+    position: relative;
+    background-color: white;
+    width: 370px;
+    height: 280px;
+    margin-right: 30px;
+    border-radius: 5px;
+    padding: 9px 25px;
+}
+.card-bg:nth-last-child(2){
+    margin-top: 35px;
+}
+.card-bg:nth-last-child(1){
+    margin-top: 70px;
+}
