@@ -5,7 +5,7 @@ then I implemented it using react js, html and css.
 this is a picture of the landing page from frontendMentor site web 
 ![image](https://user-images.githubusercontent.com/78964639/216774178-fce968e2-9910-4dc2-8675-81fd4ba42844.png)
 
-the screeshorts below are what I implemented
+the screenshorts below are what I implemented
 
 
 
