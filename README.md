@@ -7,7 +7,7 @@ this is a picture of the landing page from frontendMentor site web
 
 the screeshorts below are what I implemented
 
-![image](https://user-images.githubusercontent.com/78964639/216776830-798075d5-0c4f-4d1f-a694-f949023c50e8.png)
+
 
 ![image](https://user-images.githubusercontent.com/78964639/216776884-510cb841-5688-4f06-bdcd-a6cca8d2b433.png)
 
